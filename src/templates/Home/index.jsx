@@ -1,5 +1,11 @@
+import * as Styled from './styles';
+
 function Home() {
-  return <div>Home</div>;
+  return (
+    <Styled.Container>
+      <h1>Hello</h1>
+    </Styled.Container>
+  );
 }
 
 export default Home;
