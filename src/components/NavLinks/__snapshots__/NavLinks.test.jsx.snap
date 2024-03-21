@@ -38,7 +38,7 @@ exports[`<NavLinks /> should match snapshot 1`] = `
   }
 }
 
-<div
+<nav
   class="c0"
 >
   <a
@@ -111,5 +111,5 @@ exports[`<NavLinks /> should match snapshot 1`] = `
   >
     Link 10
   </a>
-</div>
+</nav>
 `;
